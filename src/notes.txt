@@ -1,0 +1,7 @@
+for testing (though need to add temp):
+
+/*                let compiledData = [{date: '2022-09-11', destination: 'LGA', price: '175.19', destCity: 'Miami'},
+                {date: '2022-09-11', destination: 'MAD', price: '793.97', destCity: 'Miami'},
+                {date: '2022-09-11', destination: 'BCN', price: '955.97', destCity: 'Miami'}
+                ]
+*/
